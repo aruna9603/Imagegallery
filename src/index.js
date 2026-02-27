@@ -18,7 +18,7 @@ var disc = ["spiderman","batman","Spiderman","Captain America","Deadpool","Ironm
 
 
 root.render(
-  <div className="grid grid-cols-4 gap-4 p-5 m-5 bg-black">
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-5 m-5 bg-black">
     {
     arr.map(function(item,index)
     {
