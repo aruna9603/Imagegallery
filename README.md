@@ -25,7 +25,7 @@ The application is built using **core React concepts**, especially **Props**, to
 
 ## 📂 GitHub Repository
 
-👉 https://github.com/your-username/image-gallery-react
+👉 https://github.com/aruna9603/Imagegallery/tree/main
 
 ## 📖 Project Overview
 
