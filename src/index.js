@@ -13,7 +13,7 @@ import img7 from "./assets/image/img7.jpg"
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-var arr = [img1, img2, img3, img4, img6, img7, img3,img1]
+var arr = [img1, img2, img3, img4, img6, img7, img5,img1]
 var disc = ["spiderman","batman","Spiderman","Captain America","Deadpool","Ironman","Superman","hulk"]
 
 
